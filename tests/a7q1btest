@@ -1,0 +1,3 @@
+mhe@bluenose:~/csci2132/a7$ ./unique 0 < fruits.txt > b.0
+mhe@bluenose:~/csci2132/a7$ ./unique 1 < fruits.txt > b.1
+mhe@bluenose:~/csci2132/a7$ ./unique 2 < fruits.txt > b.2

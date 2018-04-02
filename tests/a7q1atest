@@ -1,0 +1,2 @@
+mhe@bluenose:~/csci2132/a7$ ./unique < fruits.txt > a.1
+
